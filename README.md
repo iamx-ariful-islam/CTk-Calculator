@@ -56,7 +56,7 @@ pip install -r requirements.txt
 # or
 sudo pip install -r requirements.txt
 ```
-**Notes:** The `requirements.txt` file, lists of all the python libraries that my "**_CTk Calculator_**" depends on and installs those packages from the file.
+The `requirements.txt` file, lists of all the python libraries that my "**_CTk Calculator_**" depends on and installs those packages from the file.
 
 
 ## ▶️ Run the Application
