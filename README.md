@@ -71,6 +71,7 @@ Here’s the structure of the **CTk Calculator** project:
 ```bash
 CTk-Calculator/
 │
+│── screenshots/
 │── main.py
 │── LICENSE
 ├── README.md
